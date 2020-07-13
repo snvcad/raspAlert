@@ -1,3 +1,4 @@
+# Code sample for Buzzer, LED and DistanceSensor by Saji Varghese
 from gpiozero import LED
 from gpiozero import Buzzer
 from gpiozero import DistanceSensor
